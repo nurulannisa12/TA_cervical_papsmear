@@ -105,18 +105,9 @@ The application will launch in your browser at `http://127.0.0.1:8081`.
 
 ## 📁 Dataset
 
-This project uses the **SIPaKMeD Dataset** — publicly available for research purposes.
+Manuscript: Multiclass Classification Model for Cervical Cancer Using Pap Smear Images Based on Interpretable Deep Learning
 🔗 [SIPaKMeD Dataset Official Source](https://www.cs.uoi.gr/~marina/sipakmed.html)
 🔗 [SIPaKMeD Dataset on Kaggle](https://www.kaggle.com/datasets/prahladmehandiratta/cervical-cancer-largest-dataset-sipakmed)
-
-## 📄 Citation
-
-If you use this work, please cite:
-
-```
-[Nama Penulis]. "Multiclass Classification Model for Cervical Cancer Using Pap Smear Images
-Based on Interpretable Deep Learning." [2026].
-```
 
 ## 👩‍💻 Author
 
